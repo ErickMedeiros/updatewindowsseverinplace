@@ -94,7 +94,7 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar
 ## 🧑‍💼 Autor
 
 **Erick Medeiros**  
-TAM | Infraestrutura & Cloud | Microsoft Azure  
+Infraestrutura & Cloud | Microsoft Azure  
 [LinkedIn](https://www.linkedin.com/in/erickbmedeiros/) · [Blog](https://erickbmedeiros.com.br)
 
 ---
